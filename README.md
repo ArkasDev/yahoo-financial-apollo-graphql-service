@@ -5,9 +5,10 @@ Query financial data on Yahoo.
 ## Getting Started
 
 1. Install dependencies `npm install`
-2. Run the service on your local machine via `npm run dev`. Hot reloading is available.
-3. Open http://localhost:3000 and go to the ApolloGraphQL sandbox explorer
-4. Use the following example and enter it into the ApolloGraphQL sandbox
+2. Create your own environment file `.env` and fill the variables from `.env.tmp` e.g. `ENV=development PORT=3000`.
+3. Run the service on your local machine via `npm run dev`. Hot reloading is available.
+4. Open http://localhost:3000 and go to the ApolloGraphQL sandbox explorer
+5. Use the following example and enter it into the ApolloGraphQL sandbox
 
 **Example Operation**
 ```
